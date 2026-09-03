@@ -1,0 +1,17 @@
+{
+  "name": "Digital World Computer Education Center",
+  "short_name": "Digital World CSC",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#3157d5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "1000486972.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
